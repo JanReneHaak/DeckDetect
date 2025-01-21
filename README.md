@@ -1,6 +1,6 @@
 # DeckDetect: Magic: The Gathering Card Detection and Similarity API
 
-**DeckDetect** is a backend service that provides image-based detection and recommendation of Magic: The Gathering cards. It leverages computer vision, NLP, and cloud APIs to detect card names, retrieve their details, find similar cards, and suggest counter cards.
+**DeckDetect** is a backend service that provides image-based detection and recommendation of Magic: The Gathering cards. It leverages computer vision, NLP, and cloud APIs to detect card names, retrieve their details, find similar cards, and suggest counter cards. Check out the demo here: https://www.youtube.com/watch?v=DYsbej-Flkg
 
 ---
 
